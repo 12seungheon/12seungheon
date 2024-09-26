@@ -1,4 +1,4 @@
-## Hi im Seungheon
+## Hello im Seung Heon
 
 <!--
 **12seungheon/12seungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
