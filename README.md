@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12seungheon)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12seungheon&hide=contribs,prs&show_icons=true&theme=blue)
