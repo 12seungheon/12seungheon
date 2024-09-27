@@ -2,25 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=576BB0&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome!+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 </a>
 
-영남이공대 멋쟁이사자처럼 1기 아기사자
-<!--
-**12seungheon/12seungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h2>📊 GitHub Statistics</h2>
+<h2>📊 GitHub Status</h2>
 
 
 
