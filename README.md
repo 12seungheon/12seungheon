@@ -1,4 +1,6 @@
-## ✨ Hello I'm Seung heon
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=f4c5d6&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome%2C+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
+</a>
 
 영남이공대 멋쟁이사자처럼 1기 아기사자
 <!--
