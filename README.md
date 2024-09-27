@@ -1,6 +1,6 @@
-## ✨ Hello I'm Seung Heon
+## ✨ Hello I'm Seung heon
 
-hello
+영남이공대 멋쟁이사자처럼 1기 아기사자
 <!--
 **12seungheon/12seungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
