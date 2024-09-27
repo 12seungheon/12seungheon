@@ -1,4 +1,6 @@
-## ✨ Welcome my Github
+## ✨ Hello I'm Seung Heon
+
+hello
 <!--
 **12seungheon/12seungheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
