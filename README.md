@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=576BB0&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome!+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 </a>
+<h2>📚 Tech stacks</h2>
+
+[![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)   
 
 <h2>📊 GitHub Status</h2>
 
