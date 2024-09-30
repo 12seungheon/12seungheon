@@ -1,12 +1,10 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
 <a href="https://git.io/typing-svg">
   
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=576BB0&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome!+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 </a>
 <h2>📝 Profile </h2>
 영남이공대학교 소프트웨어융합과 3학년 재학중 <br>
+
 영남이공대학교 멋쟁이사자처럼 1기 아기사자
 
 <h2>📚 Tech stacks</h2>
