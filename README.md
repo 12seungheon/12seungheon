@@ -3,7 +3,7 @@
 </a>
 <h2>📚 Tech stacks</h2>
 
-#### tools
+#### Tools
 
 [![Tech Stacks](https://skillicons.dev/icons?i=figma,github,vscode&perline=5)](https://skillicons.dev)   
 
