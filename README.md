@@ -3,7 +3,8 @@
 </a>
 <h2>📚 Tech stacks</h2>
 
-[![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)   
+<h1>skill</h1>
+[![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react,redux,&perline=4)](https://skillicons.dev)   
 
 <h2>📊 GitHub Status</h2>
 
