@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=576BB0&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome!+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
 </a>
 <h2>📝 Profile </h2>
-- 2020.03 - 2024 ~ ing
+
+ - 2020.03 - 2024 ~ ing
     영남이공대학교 소프트웨어융합과 재학중
-    
-    <br>
+  
     
 - 2024.03 - 2024 ~ ing
     영남이공대학교 멋쟁이사자처럼 1기 아기사자
