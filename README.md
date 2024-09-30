@@ -1,3 +1,6 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap" rel="stylesheet">
+</head>
 
   
   <img src="https://readme-typing-svg.demolab.com?font=Timmana&size=50&pause=1000&color=576BB0&center=true&vCenter=true&random=false&width=1300&height=150&lines=Welcome!+Seungheon github+%3A)" alt="Typing SVG" style="font-weight: bold;" />
