@@ -30,7 +30,6 @@
                         
 [![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react,redux&perline=5)](https://skillicons.dev)   
 
-<h2>📊 GitHub Status</h2>
 
 
 
