@@ -17,7 +17,7 @@
 
 #### Tools
 
-[![Tech Stacks](https://skillicons.dev/icons?i=figma,github,vscode&perline=5)](https://skillicons.dev)   
+[![Tech Stacks](https://skillicons.dev/icons?i=figma,vscode&perline=5)](https://skillicons.dev)   
 
 #### Front
                         
