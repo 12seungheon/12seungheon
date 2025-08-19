@@ -15,9 +15,6 @@
 
 <h2>📚 Tech stacks</h2>
 
-#### Tools
-
-[![Tech Stacks](https://skillicons.dev/icons?i=figma,vscode&perline=5)](https://skillicons.dev)   
 
 #### Front
                         
